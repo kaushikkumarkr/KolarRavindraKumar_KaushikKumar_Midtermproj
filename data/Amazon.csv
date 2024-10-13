@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,Laptop,Headphones,Smart Speaker,
+2,Yoga Mat,Kitchen Mixer,Wireless Mouse,
+3,Fitness Tracker,Portable Charger,Headphones,Laptop
+4,Smart Speaker,Phone Charger,Yoga Mat,Kitchen Mixer
+5,Coffee Maker,Wireless Mouse,Fitness Tracker,
+6,Headphones,Laptop,Smart Speaker,Wireless Mouse
+7,Yoga Mat,Kitchen Mixer,Coffee Maker,Fitness Tracker
+8,Laptop,Wireless Mouse,Portable Charger,
+9,Phone Charger,Headphones,Yoga Mat,
+10,Coffee Maker,Fitness Tracker,Wireless Mouse,Laptop
+11,Headphones,Smart Speaker,Yoga Mat,Wireless Mouse
+12,Fitness Tracker,Portable Charger,,
+13,Kitchen Mixer,Phone Charger,Smart Speaker,Wireless Mouse
+14,Laptop,Coffee Maker,Yoga Mat,
+15,Wireless Mouse,Headphones,Smart Speaker,
+16,Yoga Mat,Kitchen Mixer,Laptop,
+17,Portable Charger,Coffee Maker,Fitness Tracker,
+18,Smart Speaker,Phone Charger,Wireless Mouse,
+19,Laptop,Yoga Mat,Fitness Tracker,
+20,Headphones,Coffee Maker,Smart Speaker,Wireless Mouse

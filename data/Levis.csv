@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,T-Shirt,Jeans,Jacket,
+2,Dress,Handbag,Scarf,Sandals
+3,Shorts,Flip Flops,,
+4,Hoodie,Sweatpants,Sneakers,
+5,Jacket,T-Shirt,Dress,Handbag
+6,Jeans,Scarf,,
+7,Sneakers,T-Shirt,Shorts,
+8,Sweatpants,Jacket,Beanie,
+9,Handbag,Dress,Sandals,Scarf
+10,Hoodie,T-Shirt,Jeans,Sneakers
+11,Flip Flops,Tank Top,,
+12,Sweatpants,Hoodie,Jacket,
+13,Dress,Beanie,Handbag,Jeans
+14,T-Shirt,Sandals,Scarf,
+15,Hoodie,Sweatpants,Flip Flops,
+16,Shorts,Jacket,Sneakers,T-Shirt
+17,Dress,Handbag,Beanie,
+18,Scarf,Tank Top,Shorts,Sneakers
+19,T-Shirt,Hoodie,Sweatpants,
+20,Jeans,Flip Flops,Dress,

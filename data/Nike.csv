@@ -1,0 +1,21 @@
+Transaction ID,Item 1,Item 2,Item 3,Item 4
+1,Running Shoes,Sports Bra,,
+2,Jacket,Backpack,Water Bottle,Soccer Ball
+3,Headband,Socks,Running Shoes,Fitness Leggings
+4,T-Shirt,Sports Bra,Backpack,
+5,Fitness Leggings,Jacket,Soccer Ball,Headband
+6,Running Shoes,Water Bottle,T-Shirt,
+7,Sports Bra,Headband,Backpack,
+8,Jacket,T-Shirt,Water Bottle,Soccer Ball
+9,Fitness Leggings,Socks,Sports Bra,
+10,Running Shoes,Backpack,Water Bottle,T-Shirt
+11,Soccer Ball,Fitness Leggings,Jacket,
+12,T-Shirt,Sports Bra,Headband,
+13,Backpack,Water Bottle,Soccer Ball,
+14,Headband,Jacket,Running Shoes,T-Shirt
+15,Socks,Sports Bra,Water Bottle,Backpack
+16,Fitness Leggings,T-Shirt,Soccer Ball,
+17,Running Shoes,Backpack,Jacket,
+18,Water Bottle,T-Shirt,Fitness Leggings,
+19,Headband,Running Shoes,Jacket,Soccer Ball
+20,Socks,T-Shirt,Backpack,
